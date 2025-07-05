@@ -1,0 +1,7 @@
+# Additional Push Notification Requirements
+flask
+google-cloud-pubsub
+google-cloud-core
+gunicorn
+requests
+threading

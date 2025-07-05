@@ -1,0 +1,12 @@
+# Basic Email Agent System Requirements
+agno
+openai
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+pydantic
+python-dotenv
+python-dateutil
+loguru
+nltk
